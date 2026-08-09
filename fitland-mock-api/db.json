@@ -1,0 +1,2206 @@
+{
+  "products": [
+    {
+      "id": "product-001",
+      "slug": "aero-run-jacket",
+      "sku": "FL-RUN-001",
+      "brand": "FitLand",
+      "name": "Aero Run Jacket",
+      "shortDescription": "Featherweight weather protection for fast road miles.",
+      "description": "A packable running shell engineered to block sharp wind and light rain without trapping heat during tempo sessions.",
+      "gender": "men",
+      "category": "outerwear",
+      "sports": [
+        "running"
+      ],
+      "price": 148,
+      "compareAtPrice": 185,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviewCount": 126,
+      "stock": 32,
+      "isFeatured": true,
+      "isNew": false,
+      "isBestSeller": true,
+      "colors": [
+        {
+          "name": "Sport Teal",
+          "hex": "#087F92"
+        },
+        {
+          "name": "Volt Lime",
+          "hex": "#C7F000"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#151713"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "materials": [
+        "Recycled nylon ripstop",
+        "Elastane"
+      ],
+      "features": [
+        "Laser-cut ventilation",
+        "Packable chest pocket",
+        "Water-repellent finish"
+      ],
+      "images": [
+        {
+          "id": "product-001-front",
+          "url": "/images/products/aero-run-jacket-1.jpg",
+          "alt": "Runner in blue performance leggings training outdoors"
+        },
+        {
+          "id": "product-001-detail",
+          "url": "/images/products/aero-run-jacket-2.jpg",
+          "alt": "Runner in blue performance leggings training outdoors, alternate crop"
+        }
+      ],
+      "createdAt": "2025-01-12T09:00:00.000Z"
+    },
+    {
+      "id": "product-002",
+      "slug": "pulse-compression-top",
+      "sku": "FL-TRN-002",
+      "brand": "FitLand",
+      "name": "Pulse Compression Top",
+      "shortDescription": "Supportive training base layer with targeted ventilation.",
+      "description": "A close-fitting performance top that supports powerful movement while mapped mesh panels release excess heat.",
+      "gender": "women",
+      "category": "tops",
+      "sports": [
+        "training",
+        "running"
+      ],
+      "price": 72,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "rating": 4.6,
+      "reviewCount": 88,
+      "stock": 47,
+      "isFeatured": false,
+      "isNew": true,
+      "isBestSeller": false,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#151713"
+        },
+        {
+          "name": "Plum",
+          "hex": "#633A61"
+        },
+        {
+          "name": "Mist",
+          "hex": "#D9DDD4"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "materials": [
+        "Recycled polyester",
+        "Elastane mesh"
+      ],
+      "features": [
+        "Four-way stretch",
+        "Flatlock seams",
+        "Moisture management"
+      ],
+      "images": [
+        {
+          "id": "product-002-front",
+          "url": "/images/products/pulse-compression-top-1.jpg",
+          "alt": "Woman training with battle ropes in a gym"
+        },
+        {
+          "id": "product-002-detail",
+          "url": "/images/products/pulse-compression-top-2.jpg",
+          "alt": "Woman training with battle ropes in a gym, alternate crop"
+        }
+      ],
+      "createdAt": "2025-02-03T10:30:00.000Z"
+    },
+    {
+      "id": "product-003",
+      "slug": "forge-training-pant",
+      "sku": "FL-TRN-003",
+      "brand": "FitLand",
+      "name": "Forge Training Pant",
+      "shortDescription": "Tapered stretch pants built for strength and mobility.",
+      "description": "Durable double-knit training pants balance abrasion resistance with articulated knees for deep squats and dynamic drills.",
+      "gender": "men",
+      "category": "bottoms",
+      "sports": [
+        "training"
+      ],
+      "price": 94,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "rating": 4.7,
+      "reviewCount": 154,
+      "stock": 61,
+      "isFeatured": false,
+      "isNew": false,
+      "isBestSeller": true,
+      "colors": [
+        {
+          "name": "Graphite",
+          "hex": "#30332E"
+        },
+        {
+          "name": "Stone",
+          "hex": "#A8A99F"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "materials": [
+        "Recycled polyester double knit",
+        "Elastane"
+      ],
+      "features": [
+        "Articulated knees",
+        "Secure zip pockets",
+        "Internal drawcord"
+      ],
+      "images": [
+        {
+          "id": "product-003-front",
+          "url": "/images/products/forge-training-pant-1.jpg",
+          "alt": "Tennis player moving across an outdoor court"
+        },
+        {
+          "id": "product-003-detail",
+          "url": "/images/products/forge-training-pant-2.jpg",
+          "alt": "Tennis player moving across an outdoor court, alternate crop"
+        }
+      ],
+      "createdAt": "2024-11-18T08:15:00.000Z"
+    },
+    {
+      "id": "product-004",
+      "slug": "vector-football-jersey",
+      "sku": "FL-FBL-004",
+      "brand": "FitLand",
+      "name": "Vector Football Jersey",
+      "shortDescription": "Match-ready jersey tuned for speed and airflow.",
+      "description": "A technical football jersey with a lightweight body and open-knit zones positioned for ninety-minute comfort.",
+      "gender": "unisex",
+      "category": "tops",
+      "sports": [
+        "football"
+      ],
+      "price": 86,
+      "compareAtPrice": 110,
+      "currency": "USD",
+      "rating": 4.5,
+      "reviewCount": 73,
+      "stock": 28,
+      "isFeatured": true,
+      "isNew": false,
+      "isBestSeller": false,
+      "colors": [
+        {
+          "name": "Performance Red",
+          "hex": "#C73A32"
+        },
+        {
+          "name": "Ice",
+          "hex": "#EDF5FF"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "materials": [
+        "Recycled performance polyester",
+        "Engineered mesh"
+      ],
+      "features": [
+        "Body-mapped ventilation",
+        "Bonded neckline",
+        "Quick-dry finish"
+      ],
+      "images": [
+        {
+          "id": "product-004-front",
+          "url": "/images/products/vector-football-jersey-1.jpg",
+          "alt": "Football player kicking a ball on the pitch"
+        },
+        {
+          "id": "product-004-detail",
+          "url": "/images/products/vector-football-jersey-2.jpg",
+          "alt": "Football player kicking a ball on the pitch, alternate crop"
+        }
+      ],
+      "createdAt": "2025-01-28T12:00:00.000Z"
+    },
+    {
+      "id": "product-005",
+      "slug": "elevate-volleyball-short",
+      "sku": "FL-VBL-005",
+      "brand": "FitLand",
+      "name": "Elevate Volleyball Short",
+      "shortDescription": "Light match shorts designed for explosive court movement.",
+      "description": "Streamlined volleyball shorts use a wide stay-put waistband and flexible side panels for jumping, diving, and rotation.",
+      "gender": "women",
+      "category": "bottoms",
+      "sports": [
+        "volleyball"
+      ],
+      "price": 58,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "rating": 4.7,
+      "reviewCount": 64,
+      "stock": 39,
+      "isFeatured": false,
+      "isNew": true,
+      "isBestSeller": false,
+      "colors": [
+        {
+          "name": "Ink",
+          "hex": "#171A24"
+        },
+        {
+          "name": "Crimson",
+          "hex": "#C92A3D"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "materials": [
+        "Stretch woven polyester",
+        "Elastane"
+      ],
+      "features": [
+        "Wide bonded waistband",
+        "Side mobility panels",
+        "Sweat-wicking liner"
+      ],
+      "images": [
+        {
+          "id": "product-005-front",
+          "url": "/images/products/elevate-volleyball-short-1.jpg",
+          "alt": "Athlete strength training with a dumbbell"
+        },
+        {
+          "id": "product-005-detail",
+          "url": "/images/products/elevate-volleyball-short-2.jpg",
+          "alt": "Athlete strength training with a dumbbell, alternate crop"
+        }
+      ],
+      "createdAt": "2025-03-04T14:20:00.000Z"
+    },
+    {
+      "id": "product-006",
+      "slug": "velocity-skating-skinsuit",
+      "sku": "FL-SKT-006",
+      "brand": "FitLand",
+      "name": "Velocity Skating Skinsuit",
+      "shortDescription": "Aerodynamic race suit for sustained speed on the oval.",
+      "description": "A competition-focused skinsuit combines a smooth air-facing surface with flexible anatomical panels for an efficient skating posture.",
+      "gender": "unisex",
+      "category": "tops",
+      "sports": [
+        "skating"
+      ],
+      "price": 240,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "rating": 4.9,
+      "reviewCount": 31,
+      "stock": 12,
+      "isFeatured": true,
+      "isNew": true,
+      "isBestSeller": false,
+      "colors": [
+        {
+          "name": "Midnight",
+          "hex": "#101828"
+        },
+        {
+          "name": "Signal Orange",
+          "hex": "#FF5A1F"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "materials": [
+        "Aerodynamic polyester knit",
+        "High-stretch elastane"
+      ],
+      "features": [
+        "Anatomical race fit",
+        "Low-profile seams",
+        "Gripper cuffs"
+      ],
+      "images": [
+        {
+          "id": "product-006-front",
+          "url": "/images/products/velocity-skating-skinsuit-1.jpg",
+          "alt": "Athletes lifting a barbell during gym training"
+        },
+        {
+          "id": "product-006-detail",
+          "url": "/images/products/velocity-skating-skinsuit-2.jpg",
+          "alt": "Athletes lifting a barbell during gym training, alternate crop"
+        }
+      ],
+      "createdAt": "2025-03-16T07:45:00.000Z"
+    },
+    {
+      "id": "product-007",
+      "slug": "grapple-elite-singlet",
+      "sku": "FL-WRS-007",
+      "brand": "FitLand",
+      "name": "Grapple Elite Singlet",
+      "shortDescription": "Secure competition singlet with resilient compression.",
+      "description": "Built for demanding matches, this singlet delivers stable compression, smooth seams, and a cut that stays secure through every exchange.",
+      "gender": "men",
+      "category": "tops",
+      "sports": [
+        "wrestling"
+      ],
+      "price": 89,
+      "compareAtPrice": 112,
+      "currency": "USD",
+      "rating": 4.6,
+      "reviewCount": 52,
+      "stock": 24,
+      "isFeatured": false,
+      "isNew": false,
+      "isBestSeller": true,
+      "colors": [
+        {
+          "name": "White",
+          "hex": "#F5F5F0"
+        },
+        {
+          "name": "Royal",
+          "hex": "#2446A8"
+        },
+        {
+          "name": "Gold",
+          "hex": "#E7B93F"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "materials": [
+        "Compression polyester",
+        "Elastane"
+      ],
+      "features": [
+        "Competition cut",
+        "Reinforced flat seams",
+        "Elastic leg binding"
+      ],
+      "images": [
+        {
+          "id": "product-007-front",
+          "url": "/images/products/grapple-elite-singlet-1.jpg",
+          "alt": "Athlete in patterned training pants outdoors"
+        },
+        {
+          "id": "product-007-detail",
+          "url": "/images/products/grapple-elite-singlet-2.jpg",
+          "alt": "Athlete in patterned training pants outdoors, alternate crop"
+        }
+      ],
+      "createdAt": "2024-12-08T16:00:00.000Z"
+    },
+    {
+      "id": "product-008",
+      "slug": "restore-recovery-hoodie",
+      "sku": "FL-LFS-008",
+      "brand": "FitLand",
+      "name": "Restore Recovery Hoodie",
+      "shortDescription": "Premium heavyweight comfort for the hours after training.",
+      "description": "A relaxed recovery layer made with brushed fabric, a structured hood, and clean finishing for travel, cooldowns, and everyday wear.",
+      "gender": "unisex",
+      "category": "outerwear",
+      "sports": [
+        "lifestyle",
+        "training"
+      ],
+      "price": 118,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "rating": 4.9,
+      "reviewCount": 207,
+      "stock": 76,
+      "isFeatured": true,
+      "isNew": false,
+      "isBestSeller": true,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#151713"
+        },
+        {
+          "name": "Oat",
+          "hex": "#D8CEB8"
+        },
+        {
+          "name": "Forest",
+          "hex": "#263C32"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "materials": [
+        "Organic cotton",
+        "Recycled polyester fleece"
+      ],
+      "features": [
+        "Brushed interior",
+        "Double-layer hood",
+        "Ribbed side panels"
+      ],
+      "images": [
+        {
+          "id": "product-008-front",
+          "url": "/images/products/restore-recovery-hoodie-1.jpg",
+          "alt": "Athletes running at dusk in performance clothing"
+        },
+        {
+          "id": "product-008-detail",
+          "url": "/images/products/restore-recovery-hoodie-2.jpg",
+          "alt": "Athletes running at dusk in performance clothing, alternate crop"
+        }
+      ],
+      "createdAt": "2024-10-22T11:10:00.000Z"
+    },
+    {
+      "id": "product-009",
+      "slug": "stride-lt-running-shoe",
+      "sku": "FL-RUN-009",
+      "brand": "FitLand",
+      "name": "Stride LT Running Shoe",
+      "shortDescription": "Responsive lightweight trainer for daily road mileage.",
+      "description": "A balanced road shoe pairing energetic foam with a stable platform and breathable upper for easy runs and faster sessions.",
+      "gender": "women",
+      "category": "footwear",
+      "sports": [
+        "running"
+      ],
+      "price": 156,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviewCount": 183,
+      "stock": 44,
+      "isFeatured": true,
+      "isNew": true,
+      "isBestSeller": true,
+      "colors": [
+        {
+          "name": "Cloud",
+          "hex": "#E9ECE7"
+        },
+        {
+          "name": "Coral",
+          "hex": "#FF6B62"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "materials": [
+        "Engineered mesh",
+        "Responsive EVA foam",
+        "Rubber"
+      ],
+      "features": [
+        "Rocker geometry",
+        "Breathable upper",
+        "Zonal traction"
+      ],
+      "images": [
+        {
+          "id": "product-009-front",
+          "url": "/images/products/stride-lt-running-shoe-1.jpg",
+          "alt": "Athlete exercising with battle ropes outdoors"
+        },
+        {
+          "id": "product-009-detail",
+          "url": "/images/products/stride-lt-running-shoe-2.jpg",
+          "alt": "Athlete exercising with battle ropes outdoors, alternate crop"
+        }
+      ],
+      "createdAt": "2025-04-02T09:25:00.000Z"
+    },
+    {
+      "id": "product-010",
+      "slug": "core-training-duffel",
+      "sku": "FL-TRN-010",
+      "brand": "FitLand",
+      "name": "Core Training Duffel",
+      "shortDescription": "Organized 38-liter duffel for daily training essentials.",
+      "description": "A durable training bag with separate footwear storage, quick-access pockets, and a comfortable adjustable shoulder strap.",
+      "gender": "unisex",
+      "category": "accessories",
+      "sports": [
+        "training",
+        "lifestyle"
+      ],
+      "price": 96,
+      "compareAtPrice": 120,
+      "currency": "USD",
+      "rating": 4.7,
+      "reviewCount": 95,
+      "stock": 35,
+      "isFeatured": false,
+      "isNew": false,
+      "isBestSeller": true,
+      "colors": [
+        {
+          "name": "Performance Red",
+          "hex": "#C73A32"
+        },
+        {
+          "name": "Black",
+          "hex": "#151713"
+        },
+        {
+          "name": "Olive",
+          "hex": "#59634A"
+        }
+      ],
+      "sizes": [
+        "ONE_SIZE"
+      ],
+      "materials": [
+        "Recycled ballistic polyester",
+        "Coated nylon lining"
+      ],
+      "features": [
+        "Ventilated shoe compartment",
+        "38-liter capacity",
+        "Padded shoulder strap"
+      ],
+      "images": [
+        {
+          "id": "product-010-front",
+          "url": "/images/products/core-training-duffel-1.jpg",
+          "alt": "Woman stretching on a gym mat in sportswear"
+        },
+        {
+          "id": "product-010-detail",
+          "url": "/images/products/core-training-duffel-2.jpg",
+          "alt": "Woman stretching on a gym mat in sportswear, alternate crop"
+        }
+      ],
+      "createdAt": "2024-09-30T13:40:00.000Z"
+    },
+    {
+      "id": "product-011",
+      "slug": "draft-performance-cap",
+      "sku": "FL-RUN-011",
+      "brand": "FitLand",
+      "name": "Draft Performance Cap",
+      "shortDescription": "Ultralight running cap with rapid-dry ventilation.",
+      "description": "A low-profile performance cap that shields bright miles while perforated side panels and a soft sweatband manage heat.",
+      "gender": "unisex",
+      "category": "accessories",
+      "sports": [
+        "running",
+        "training"
+      ],
+      "price": 42,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "rating": 4.5,
+      "reviewCount": 67,
+      "stock": 83,
+      "isFeatured": false,
+      "isNew": true,
+      "isBestSeller": false,
+      "colors": [
+        {
+          "name": "Sport Teal",
+          "hex": "#087F92"
+        },
+        {
+          "name": "Lime",
+          "hex": "#C7F000"
+        },
+        {
+          "name": "Navy",
+          "hex": "#17233C"
+        }
+      ],
+      "sizes": [
+        "ONE_SIZE"
+      ],
+      "materials": [
+        "Recycled stretch nylon",
+        "Polyester mesh"
+      ],
+      "features": [
+        "Laser perforations",
+        "Adjustable rear cord",
+        "Reflective mark"
+      ],
+      "images": [
+        {
+          "id": "product-011-front",
+          "url": "/images/products/draft-performance-cap-1.jpg",
+          "alt": "Runner in blue leggings climbing outdoor steps"
+        },
+        {
+          "id": "product-011-detail",
+          "url": "/images/products/draft-performance-cap-2.jpg",
+          "alt": "Runner in blue leggings climbing outdoor steps, alternate crop"
+        }
+      ],
+      "createdAt": "2025-03-20T06:30:00.000Z"
+    },
+    {
+      "id": "product-012",
+      "slug": "tempo-race-short",
+      "sku": "FL-RUN-012",
+      "brand": "FitLand",
+      "name": "Tempo Race Short",
+      "shortDescription": "Minimal split shorts for unrestricted race-day stride.",
+      "description": "Race-focused shorts combine a featherlight outer shell, supportive brief, and compact storage for fuel and keys.",
+      "gender": "men",
+      "category": "bottoms",
+      "sports": [
+        "running"
+      ],
+      "price": 68,
+      "compareAtPrice": 84,
+      "currency": "USD",
+      "rating": 4.4,
+      "reviewCount": 49,
+      "stock": 18,
+      "isFeatured": false,
+      "isNew": false,
+      "isBestSeller": false,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#151713"
+        },
+        {
+          "name": "Silver",
+          "hex": "#BEC4C2"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "materials": [
+        "Recycled micro-ripstop",
+        "Polyester brief"
+      ],
+      "features": [
+        "Side split",
+        "Three gel pockets",
+        "Bonded hems"
+      ],
+      "images": [
+        {
+          "id": "product-012-front",
+          "url": "/images/products/tempo-race-short-1.jpg",
+          "alt": "Athlete lifting weights in a gym"
+        },
+        {
+          "id": "product-012-detail",
+          "url": "/images/products/tempo-race-short-2.jpg",
+          "alt": "Athlete lifting weights in a gym, alternate crop"
+        }
+      ],
+      "createdAt": "2024-08-17T10:00:00.000Z"
+    },
+    {
+      "id": "product-013",
+      "slug": "shield-touchline-coat",
+      "sku": "FL-FBL-013",
+      "brand": "FitLand",
+      "name": "Shield Touchline Coat",
+      "shortDescription": "Insulated sideline coverage for cold match conditions.",
+      "description": "A long technical coat with lightweight insulation and a weather-resistant shell designed for warmups, benches, and winter travel.",
+      "gender": "unisex",
+      "category": "outerwear",
+      "sports": [
+        "football",
+        "lifestyle"
+      ],
+      "price": 210,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviewCount": 42,
+      "stock": 16,
+      "isFeatured": true,
+      "isNew": true,
+      "isBestSeller": false,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#151713"
+        },
+        {
+          "name": "Deep Navy",
+          "hex": "#111C36"
+        },
+        {
+          "name": "Steel",
+          "hex": "#68727D"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "materials": [
+        "Recycled nylon shell",
+        "Synthetic insulation"
+      ],
+      "features": [
+        "Two-way front zip",
+        "Insulated hood",
+        "Storm cuffs"
+      ],
+      "images": [
+        {
+          "id": "product-013-front",
+          "url": "/images/products/shield-touchline-coat-1.jpg",
+          "alt": "Football team gathered on an outdoor pitch"
+        },
+        {
+          "id": "product-013-detail",
+          "url": "/images/products/shield-touchline-coat-2.jpg",
+          "alt": "Football team gathered on an outdoor pitch, alternate crop"
+        }
+      ],
+      "createdAt": "2025-02-19T15:10:00.000Z"
+    },
+    {
+      "id": "product-014",
+      "slug": "court-flight-knee-pad",
+      "sku": "FL-VBL-014",
+      "brand": "FitLand",
+      "name": "Court Flight Knee Pad",
+      "shortDescription": "Low-profile impact protection for confident court defense.",
+      "description": "Contoured volleyball knee pads disperse impact while flexible zones and breathable backing maintain a secure natural feel.",
+      "gender": "unisex",
+      "category": "accessories",
+      "sports": [
+        "volleyball"
+      ],
+      "price": 38,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "rating": 4.6,
+      "reviewCount": 112,
+      "stock": 59,
+      "isFeatured": false,
+      "isNew": false,
+      "isBestSeller": true,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#151713"
+        },
+        {
+          "name": "White",
+          "hex": "#F5F5F0"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "materials": [
+        "Molded EVA foam",
+        "Stretch polyester sleeve"
+      ],
+      "features": [
+        "Segmented padding",
+        "Breathable rear mesh",
+        "Non-slip interior"
+      ],
+      "images": [
+        {
+          "id": "product-014-front",
+          "url": "/images/products/court-flight-knee-pad-1.jpg",
+          "alt": "Volleyball player jumping near the net"
+        },
+        {
+          "id": "product-014-detail",
+          "url": "/images/products/court-flight-knee-pad-2.jpg",
+          "alt": "Volleyball player jumping near the net, alternate crop"
+        }
+      ],
+      "createdAt": "2024-11-05T09:50:00.000Z"
+    },
+    {
+      "id": "product-015",
+      "slug": "apex-lifting-shoe",
+      "sku": "FL-TRN-015",
+      "brand": "FitLand",
+      "name": "Apex Lifting Shoe",
+      "shortDescription": "Stable raised-heel platform for precise heavy lifts.",
+      "description": "A purpose-built lifting shoe with a rigid heel, broad outsole, and midfoot strap to create a planted foundation under load.",
+      "gender": "men",
+      "category": "footwear",
+      "sports": [
+        "training"
+      ],
+      "price": 172,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "rating": 4.9,
+      "reviewCount": 138,
+      "stock": 21,
+      "isFeatured": true,
+      "isNew": false,
+      "isBestSeller": true,
+      "colors": [
+        {
+          "name": "Amber",
+          "hex": "#E49B27"
+        },
+        {
+          "name": "Charcoal",
+          "hex": "#242722"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "materials": [
+        "Synthetic leather",
+        "Rigid TPU heel",
+        "Rubber"
+      ],
+      "features": [
+        "20 mm heel lift",
+        "Midfoot locking strap",
+        "High-traction outsole"
+      ],
+      "images": [
+        {
+          "id": "product-015-front",
+          "url": "/images/products/apex-lifting-shoe-1.jpg",
+          "alt": "Athlete reaching toward a basketball hoop"
+        },
+        {
+          "id": "product-015-detail",
+          "url": "/images/products/apex-lifting-shoe-2.jpg",
+          "alt": "Athlete reaching toward a basketball hoop, alternate crop"
+        }
+      ],
+      "createdAt": "2024-12-20T12:35:00.000Z"
+    },
+    {
+      "id": "product-016",
+      "slug": "orbit-seamless-bra",
+      "sku": "FL-TRN-016",
+      "brand": "FitLand",
+      "name": "Orbit Seamless Bra",
+      "shortDescription": "Medium-support seamless bra for versatile studio training.",
+      "description": "A soft engineered-knit bra offers adaptive support, carefully placed airflow, and a smooth feel through mixed-intensity sessions.",
+      "gender": "women",
+      "category": "tops",
+      "sports": [
+        "training",
+        "lifestyle"
+      ],
+      "price": 64,
+      "compareAtPrice": 80,
+      "currency": "USD",
+      "rating": 4.3,
+      "reviewCount": 91,
+      "stock": 0,
+      "isFeatured": false,
+      "isNew": false,
+      "isBestSeller": false,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#151713"
+        },
+        {
+          "name": "Sage",
+          "hex": "#90A58F"
+        },
+        {
+          "name": "Clay",
+          "hex": "#B56F5A"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "materials": [
+        "Recycled nylon",
+        "Elastane"
+      ],
+      "features": [
+        "Engineered ventilation",
+        "Removable cups",
+        "Seamless construction"
+      ],
+      "images": [
+        {
+          "id": "product-016-front",
+          "url": "/images/products/orbit-seamless-bra-1.jpg",
+          "alt": "Woman lifting dumbbells in a gym"
+        },
+        {
+          "id": "product-016-detail",
+          "url": "/images/products/orbit-seamless-bra-2.jpg",
+          "alt": "Woman lifting dumbbells in a gym, alternate crop"
+        }
+      ],
+      "createdAt": "2024-09-12T08:05:00.000Z"
+    },
+    {
+      "id": "product-017",
+      "slug": "glide-skating-warmup-pant",
+      "sku": "FL-SKT-017",
+      "brand": "FitLand",
+      "name": "Glide Skating Warmup Pant",
+      "shortDescription": "Wind-resistant warmup pants shaped for skating mobility.",
+      "description": "Technical warmup pants protect cold muscles before the start while stretch panels accommodate deep knee angles and long strides.",
+      "gender": "women",
+      "category": "bottoms",
+      "sports": [
+        "skating"
+      ],
+      "price": 108,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "rating": 4.7,
+      "reviewCount": 27,
+      "stock": 14,
+      "isFeatured": false,
+      "isNew": true,
+      "isBestSeller": false,
+      "colors": [
+        {
+          "name": "Golden Yellow",
+          "hex": "#E2A62B"
+        },
+        {
+          "name": "Petrol",
+          "hex": "#155E63"
+        },
+        {
+          "name": "Frost",
+          "hex": "#DDECEF"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "materials": [
+        "Windproof woven polyester",
+        "Brushed stretch knit"
+      ],
+      "features": [
+        "Full-length side zips",
+        "Pre-shaped knees",
+        "Brushed interior"
+      ],
+      "images": [
+        {
+          "id": "product-017-front",
+          "url": "/images/products/glide-skating-warmup-pant-1.jpg",
+          "alt": "Close view of battle ropes and training shoes"
+        },
+        {
+          "id": "product-017-detail",
+          "url": "/images/products/glide-skating-warmup-pant-2.jpg",
+          "alt": "Close view of battle ropes and training shoes, alternate crop"
+        }
+      ],
+      "createdAt": "2025-03-11T10:45:00.000Z"
+    },
+    {
+      "id": "product-018",
+      "slug": "anchor-wrestling-warmup",
+      "sku": "FL-WRS-018",
+      "brand": "FitLand",
+      "name": "Anchor Wrestling Warmup",
+      "shortDescription": "Breathable full-zip layer for mat-side preparation.",
+      "description": "A streamlined warmup jacket balances light warmth and rapid ventilation so athletes stay ready between drills and matches.",
+      "gender": "unisex",
+      "category": "outerwear",
+      "sports": [
+        "wrestling",
+        "training"
+      ],
+      "price": 124,
+      "compareAtPrice": 155,
+      "currency": "USD",
+      "rating": 4.5,
+      "reviewCount": 36,
+      "stock": 26,
+      "isFeatured": false,
+      "isNew": false,
+      "isBestSeller": false,
+      "colors": [
+        {
+          "name": "Burnt Orange",
+          "hex": "#D94F1F"
+        },
+        {
+          "name": "Burgundy",
+          "hex": "#762A3B"
+        },
+        {
+          "name": "Sand",
+          "hex": "#D7C7A8"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "materials": [
+        "Recycled polyester knit",
+        "Mesh lining"
+      ],
+      "features": [
+        "Two-way stretch",
+        "Vented back yoke",
+        "Zipped hand pockets"
+      ],
+      "images": [
+        {
+          "id": "product-018-front",
+          "url": "/images/products/anchor-wrestling-warmup-1.jpg",
+          "alt": "Woman doing core training on a gym floor"
+        },
+        {
+          "id": "product-018-detail",
+          "url": "/images/products/anchor-wrestling-warmup-2.jpg",
+          "alt": "Woman doing core training on a gym floor, alternate crop"
+        }
+      ],
+      "createdAt": "2024-10-09T17:30:00.000Z"
+    },
+    {
+      "id": "product-019",
+      "slug": "drift-everyday-tee",
+      "sku": "FL-LFS-019",
+      "brand": "FitLand",
+      "name": "Drift Everyday Tee",
+      "shortDescription": "Refined heavyweight tee with an athletic relaxed cut.",
+      "description": "A premium everyday T-shirt combining substantial organic cotton with a clean drape suited to recovery days and city movement.",
+      "gender": "unisex",
+      "category": "tops",
+      "sports": [
+        "lifestyle"
+      ],
+      "price": 54,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "rating": 4.6,
+      "reviewCount": 119,
+      "stock": 92,
+      "isFeatured": false,
+      "isNew": false,
+      "isBestSeller": true,
+      "colors": [
+        {
+          "name": "Washed Black",
+          "hex": "#343531"
+        },
+        {
+          "name": "Bone",
+          "hex": "#E8E2D5"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "materials": [
+        "Heavyweight organic cotton jersey"
+      ],
+      "features": [
+        "Relaxed athletic fit",
+        "Reinforced neckline",
+        "Garment-washed finish"
+      ],
+      "images": [
+        {
+          "id": "product-019-front",
+          "url": "/images/products/drift-everyday-tee-1.jpg",
+          "alt": "Runner in blue performance leggings outdoors"
+        },
+        {
+          "id": "product-019-detail",
+          "url": "/images/products/drift-everyday-tee-2.jpg",
+          "alt": "Runner in blue performance leggings outdoors, alternate crop"
+        }
+      ],
+      "createdAt": "2024-07-26T11:55:00.000Z"
+    },
+    {
+      "id": "product-020",
+      "slug": "switch-indoor-court-shoe",
+      "sku": "FL-VBL-020",
+      "brand": "FitLand",
+      "name": "Switch Indoor Court Shoe",
+      "shortDescription": "Grippy responsive court shoe for rapid directional changes.",
+      "description": "An indoor performance shoe with lateral support, responsive cushioning, and a tacky outsole for confident approaches and defensive movement.",
+      "gender": "women",
+      "category": "footwear",
+      "sports": [
+        "volleyball",
+        "training"
+      ],
+      "price": 142,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviewCount": 76,
+      "stock": 31,
+      "isFeatured": true,
+      "isNew": true,
+      "isBestSeller": false,
+      "colors": [
+        {
+          "name": "Sport Blue",
+          "hex": "#356FA3"
+        },
+        {
+          "name": "Violet",
+          "hex": "#6941C6"
+        },
+        {
+          "name": "Lime",
+          "hex": "#C7F000"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "materials": [
+        "Technical mesh",
+        "TPU support frame",
+        "Gum rubber"
+      ],
+      "features": [
+        "Lateral support frame",
+        "Responsive forefoot foam",
+        "Non-marking outsole"
+      ],
+      "images": [
+        {
+          "id": "product-020-front",
+          "url": "/images/products/switch-indoor-court-shoe-1.jpg",
+          "alt": "Swimmer training in an indoor pool"
+        },
+        {
+          "id": "product-020-detail",
+          "url": "/images/products/switch-indoor-court-shoe-2.jpg",
+          "alt": "Swimmer training in an indoor pool, alternate crop"
+        }
+      ],
+      "createdAt": "2025-04-10T13:15:00.000Z"
+    },
+    {
+      "id": "product-021",
+      "slug": "keeper-grip-glove",
+      "sku": "FL-FBL-021",
+      "brand": "FitLand",
+      "name": "Keeper Grip Glove",
+      "shortDescription": "Match goalkeeper gloves with confident all-weather grip.",
+      "description": "Premium goalkeeper gloves pair tacky latex palms with flexible backhand support and a secure wraparound wrist closure.",
+      "gender": "unisex",
+      "category": "accessories",
+      "sports": [
+        "football"
+      ],
+      "price": 78,
+      "compareAtPrice": 98,
+      "currency": "USD",
+      "rating": 4.4,
+      "reviewCount": 58,
+      "stock": 22,
+      "isFeatured": false,
+      "isNew": false,
+      "isBestSeller": false,
+      "colors": [
+        {
+          "name": "Team Red",
+          "hex": "#C93436"
+        },
+        {
+          "name": "Neon Yellow",
+          "hex": "#E8F51B"
+        },
+        {
+          "name": "Black",
+          "hex": "#151713"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "materials": [
+        "German latex palm",
+        "Neoprene backhand"
+      ],
+      "features": [
+        "All-weather grip",
+        "Negative cut fingers",
+        "Wraparound wrist strap"
+      ],
+      "images": [
+        {
+          "id": "product-021-front",
+          "url": "/images/products/keeper-grip-glove-1.jpg",
+          "alt": "Athlete doing pull-ups in a gym"
+        },
+        {
+          "id": "product-021-detail",
+          "url": "/images/products/keeper-grip-glove-2.jpg",
+          "alt": "Athlete doing pull-ups in a gym, alternate crop"
+        }
+      ],
+      "createdAt": "2024-12-02T14:05:00.000Z"
+    },
+    {
+      "id": "product-022",
+      "slug": "terrain-wind-vest",
+      "sku": "FL-RUN-022",
+      "brand": "FitLand",
+      "name": "Terrain Wind Vest",
+      "shortDescription": "Packable core protection for exposed trail conditions.",
+      "description": "A minimal running vest protects the torso from gusts while stretch mesh across the back keeps movement unrestricted on climbs.",
+      "gender": "women",
+      "category": "outerwear",
+      "sports": [
+        "running"
+      ],
+      "price": 102,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "rating": 4.6,
+      "reviewCount": 41,
+      "stock": 37,
+      "isFeatured": false,
+      "isNew": true,
+      "isBestSeller": false,
+      "colors": [
+        {
+          "name": "Sport Teal",
+          "hex": "#087F92"
+        },
+        {
+          "name": "Alpine Green",
+          "hex": "#287052"
+        },
+        {
+          "name": "Mist",
+          "hex": "#DDE4DE"
+        }
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "materials": [
+        "Recycled nylon ripstop",
+        "Stretch mesh"
+      ],
+      "features": [
+        "Packable rear pocket",
+        "Wind-resistant front",
+        "Reflective trail details"
+      ],
+      "images": [
+        {
+          "id": "product-022-front",
+          "url": "/images/products/terrain-wind-vest-1.jpg",
+          "alt": "Runner in blue performance leggings training outdoors"
+        },
+        {
+          "id": "product-022-detail",
+          "url": "/images/products/terrain-wind-vest-2.jpg",
+          "alt": "Runner in blue performance leggings training outdoors, alternate crop"
+        }
+      ],
+      "createdAt": "2025-03-29T08:40:00.000Z"
+    },
+    {
+      "id": "product-023",
+      "slug": "power-knit-training-short",
+      "sku": "FL-TRN-023",
+      "brand": "FitLand",
+      "name": "Power Knit Training Short",
+      "shortDescription": "Structured stretch shorts for high-output gym sessions.",
+      "description": "Dense but breathable knit shorts provide stable coverage, useful storage, and freedom for strength work and conditioning.",
+      "gender": "men",
+      "category": "bottoms",
+      "sports": [
+        "training"
+      ],
+      "price": 74,
+      "compareAtPrice": null,
+      "currency": "USD",
+      "rating": 4.7,
+      "reviewCount": 102,
+      "stock": 53,
+      "isFeatured": false,
+      "isNew": false,
+      "isBestSeller": true,
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#151713"
+        },
+        {
+          "name": "Slate",
+          "hex": "#475467"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "materials": [
+        "Recycled polyester knit",
+        "Elastane"
+      ],
+      "features": [
+        "Four-way stretch",
+        "Phone-safe zip pocket",
+        "Ventilated gusset"
+      ],
+      "images": [
+        {
+          "id": "product-023-front",
+          "url": "/images/products/power-knit-training-short-1.jpg",
+          "alt": "Athletes running together at dusk"
+        },
+        {
+          "id": "product-023-detail",
+          "url": "/images/products/power-knit-training-short-2.jpg",
+          "alt": "Athletes running together at dusk, alternate crop"
+        }
+      ],
+      "createdAt": "2024-08-29T07:20:00.000Z"
+    },
+    {
+      "id": "product-024",
+      "slug": "commute-tech-backpack",
+      "sku": "FL-LFS-024",
+      "brand": "FitLand",
+      "name": "Commute Tech Backpack",
+      "shortDescription": "Weather-ready 24-liter pack for training and daily travel.",
+      "description": "A streamlined backpack organizes work and training gear with protected device storage, bottle access, and a durable water-resistant exterior.",
+      "gender": "unisex",
+      "category": "accessories",
+      "sports": [
+        "lifestyle",
+        "training"
+      ],
+      "price": 132,
+      "compareAtPrice": 165,
+      "currency": "USD",
+      "rating": 4.8,
+      "reviewCount": 84,
+      "stock": 29,
+      "isFeatured": true,
+      "isNew": true,
+      "isBestSeller": false,
+      "colors": [
+        {
+          "name": "Carbon",
+          "hex": "#222522"
+        },
+        {
+          "name": "Lime",
+          "hex": "#C7F000"
+        }
+      ],
+      "sizes": [
+        "ONE_SIZE"
+      ],
+      "materials": [
+        "Recycled coated polyester",
+        "Air mesh"
+      ],
+      "features": [
+        "Padded 16-inch laptop sleeve",
+        "Separate training compartment",
+        "Water-resistant zippers"
+      ],
+      "images": [
+        {
+          "id": "product-024-front",
+          "url": "/images/products/commute-tech-backpack-1.jpg",
+          "alt": "Volleyball player celebrating during an indoor match"
+        },
+        {
+          "id": "product-024-detail",
+          "url": "/images/products/commute-tech-backpack-2.jpg",
+          "alt": "Volleyball player celebrating during an indoor match, alternate crop"
+        }
+      ],
+      "createdAt": "2025-04-14T16:25:00.000Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "seed-customer-2026-03-12",
+      "userId": "user-demo-customer",
+      "orderNumber": "FIT-DEMO-260312",
+      "createdAt": "2026-03-12T10:15:00.000Z",
+      "status": "delivered",
+      "customer": {
+        "firstName": "Demo",
+        "lastName": "Customer",
+        "email": "user@fitland.com",
+        "phone": "+1 555 010 1000"
+      },
+      "deliveryAddress": {
+        "address": "100 FitLand Avenue",
+        "city": "Portland",
+        "postalCode": "97205"
+      },
+      "shippingMethod": "standard",
+      "paymentMethod": "demo_card",
+      "items": [
+        {
+          "productId": "product-001",
+          "slug": "aero-run-jacket",
+          "sku": "FL-RUN-001",
+          "name": "Aero Run Jacket",
+          "image": "/images/products/aero-run-jacket-1.jpg",
+          "unitPrice": 148,
+          "currency": "USD",
+          "selectedColor": {
+            "name": "Sport Teal",
+            "hex": "#087F92"
+          },
+          "selectedSize": "S",
+          "quantity": 1,
+          "lineTotal": 148
+        }
+      ],
+      "totalQuantity": 1,
+      "subtotal": 148,
+      "shippingFee": 0,
+      "total": 148,
+      "currency": "USD",
+      "customerEmailNormalized": "user@fitland.com"
+    },
+    {
+      "id": "seed-customer-2026-04-08",
+      "userId": "user-demo-customer",
+      "orderNumber": "FIT-DEMO-260408",
+      "createdAt": "2026-04-08T14:30:00.000Z",
+      "status": "delivered",
+      "customer": {
+        "firstName": "Demo",
+        "lastName": "Customer",
+        "email": "user@fitland.com",
+        "phone": "+1 555 010 1000"
+      },
+      "deliveryAddress": {
+        "address": "100 FitLand Avenue",
+        "city": "Portland",
+        "postalCode": "97205"
+      },
+      "shippingMethod": "standard",
+      "paymentMethod": "cash_on_delivery",
+      "items": [
+        {
+          "productId": "product-002",
+          "slug": "pulse-compression-top",
+          "sku": "FL-TRN-002",
+          "name": "Pulse Compression Top",
+          "image": "/images/products/pulse-compression-top-1.jpg",
+          "unitPrice": 72,
+          "currency": "USD",
+          "selectedColor": {
+            "name": "Black",
+            "hex": "#151713"
+          },
+          "selectedSize": "XS",
+          "quantity": 2,
+          "lineTotal": 144
+        }
+      ],
+      "totalQuantity": 2,
+      "subtotal": 144,
+      "shippingFee": 0,
+      "total": 144,
+      "currency": "USD",
+      "customerEmailNormalized": "user@fitland.com"
+    },
+    {
+      "id": "seed-customer-2026-05-19",
+      "userId": "user-demo-customer",
+      "orderNumber": "FIT-DEMO-260519",
+      "createdAt": "2026-05-19T09:45:00.000Z",
+      "status": "cancelled",
+      "customer": {
+        "firstName": "Demo",
+        "lastName": "Customer",
+        "email": "user@fitland.com",
+        "phone": "+1 555 010 1000"
+      },
+      "deliveryAddress": {
+        "address": "100 FitLand Avenue",
+        "city": "Portland",
+        "postalCode": "97205"
+      },
+      "shippingMethod": "standard",
+      "paymentMethod": "demo_card",
+      "items": [
+        {
+          "productId": "product-003",
+          "slug": "forge-training-pant",
+          "sku": "FL-TRN-003",
+          "name": "Forge Training Pant",
+          "image": "/images/products/forge-training-pant-1.jpg",
+          "unitPrice": 94,
+          "currency": "USD",
+          "selectedColor": {
+            "name": "Graphite",
+            "hex": "#30332E"
+          },
+          "selectedSize": "S",
+          "quantity": 1,
+          "lineTotal": 94
+        }
+      ],
+      "totalQuantity": 1,
+      "subtotal": 94,
+      "shippingFee": 0,
+      "total": 94,
+      "currency": "USD",
+      "customerEmailNormalized": "user@fitland.com"
+    },
+    {
+      "id": "seed-customer-2026-06-03",
+      "userId": "user-demo-customer",
+      "orderNumber": "FIT-DEMO-260603",
+      "createdAt": "2026-06-03T16:20:00.000Z",
+      "status": "shipped",
+      "customer": {
+        "firstName": "Demo",
+        "lastName": "Customer",
+        "email": "user@fitland.com",
+        "phone": "+1 555 010 1000"
+      },
+      "deliveryAddress": {
+        "address": "100 FitLand Avenue",
+        "city": "Portland",
+        "postalCode": "97205"
+      },
+      "shippingMethod": "standard",
+      "paymentMethod": "demo_card",
+      "items": [
+        {
+          "productId": "product-004",
+          "slug": "vector-football-jersey",
+          "sku": "FL-FBL-004",
+          "name": "Vector Football Jersey",
+          "image": "/images/products/vector-football-jersey-1.jpg",
+          "unitPrice": 86,
+          "currency": "USD",
+          "selectedColor": {
+            "name": "Performance Red",
+            "hex": "#C73A32"
+          },
+          "selectedSize": "XS",
+          "quantity": 2,
+          "lineTotal": 172
+        }
+      ],
+      "totalQuantity": 2,
+      "subtotal": 172,
+      "shippingFee": 0,
+      "total": 172,
+      "currency": "USD",
+      "customerEmailNormalized": "user@fitland.com"
+    },
+    {
+      "id": "seed-customer-2026-07-07",
+      "userId": "user-demo-customer",
+      "orderNumber": "FIT-DEMO-260707",
+      "createdAt": "2026-07-07T11:10:00.000Z",
+      "status": "delivered",
+      "customer": {
+        "firstName": "Demo",
+        "lastName": "Customer",
+        "email": "user@fitland.com",
+        "phone": "+1 555 010 1000"
+      },
+      "deliveryAddress": {
+        "address": "100 FitLand Avenue",
+        "city": "Portland",
+        "postalCode": "97205"
+      },
+      "shippingMethod": "standard",
+      "paymentMethod": "cash_on_delivery",
+      "items": [
+        {
+          "productId": "product-005",
+          "slug": "elevate-volleyball-short",
+          "sku": "FL-VBL-005",
+          "name": "Elevate Volleyball Short",
+          "image": "/images/products/elevate-volleyball-short-1.jpg",
+          "unitPrice": 58,
+          "currency": "USD",
+          "selectedColor": {
+            "name": "Ink",
+            "hex": "#171A24"
+          },
+          "selectedSize": "XS",
+          "quantity": 1,
+          "lineTotal": 58
+        }
+      ],
+      "totalQuantity": 1,
+      "subtotal": 58,
+      "shippingFee": 0,
+      "total": 58,
+      "currency": "USD",
+      "customerEmailNormalized": "user@fitland.com"
+    },
+    {
+      "id": "seed-customer-2026-07-24",
+      "userId": "user-demo-customer",
+      "orderNumber": "FIT-DEMO-260724",
+      "createdAt": "2026-07-24T13:05:00.000Z",
+      "status": "processing",
+      "customer": {
+        "firstName": "Demo",
+        "lastName": "Customer",
+        "email": "user@fitland.com",
+        "phone": "+1 555 010 1000"
+      },
+      "deliveryAddress": {
+        "address": "100 FitLand Avenue",
+        "city": "Portland",
+        "postalCode": "97205"
+      },
+      "shippingMethod": "standard",
+      "paymentMethod": "demo_card",
+      "items": [
+        {
+          "productId": "product-006",
+          "slug": "velocity-skating-skinsuit",
+          "sku": "FL-SKT-006",
+          "name": "Velocity Skating Skinsuit",
+          "image": "/images/products/velocity-skating-skinsuit-1.jpg",
+          "unitPrice": 240,
+          "currency": "USD",
+          "selectedColor": {
+            "name": "Midnight",
+            "hex": "#101828"
+          },
+          "selectedSize": "XS",
+          "quantity": 1,
+          "lineTotal": 240
+        }
+      ],
+      "totalQuantity": 1,
+      "subtotal": 240,
+      "shippingFee": 0,
+      "total": 240,
+      "currency": "USD",
+      "customerEmailNormalized": "user@fitland.com"
+    },
+    {
+      "id": "seed-customer-2026-08-02",
+      "userId": "user-demo-customer",
+      "orderNumber": "FIT-DEMO-260802",
+      "createdAt": "2026-08-02T17:40:00.000Z",
+      "status": "pending",
+      "customer": {
+        "firstName": "Demo",
+        "lastName": "Customer",
+        "email": "user@fitland.com",
+        "phone": "+1 555 010 1000"
+      },
+      "deliveryAddress": {
+        "address": "100 FitLand Avenue",
+        "city": "Portland",
+        "postalCode": "97205"
+      },
+      "shippingMethod": "standard",
+      "paymentMethod": "cash_on_delivery",
+      "items": [
+        {
+          "productId": "product-003",
+          "slug": "forge-training-pant",
+          "sku": "FL-TRN-003",
+          "name": "Forge Training Pant",
+          "image": "/images/products/forge-training-pant-1.jpg",
+          "unitPrice": 94,
+          "currency": "USD",
+          "selectedColor": {
+            "name": "Graphite",
+            "hex": "#30332E"
+          },
+          "selectedSize": "S",
+          "quantity": 2,
+          "lineTotal": 188
+        }
+      ],
+      "totalQuantity": 2,
+      "subtotal": 188,
+      "shippingFee": 0,
+      "total": 188,
+      "currency": "USD",
+      "customerEmailNormalized": "user@fitland.com"
+    },
+    {
+      "id": "_5RzB_DoQPc",
+      "orderNumber": "FIT-a8496a39-5c87-4433-8c02-3b931ff23610",
+      "createdAt": "2026-08-01T14:42:12.170Z",
+      "status": "pending",
+      "customer": {
+        "firstName": "sara",
+        "lastName": "indiana",
+        "email": "sara@gmail.com",
+        "phone": "09163611070"
+      },
+      "deliveryAddress": {
+        "address": "خیابان امام -کوچه پرستو -پلاک9",
+        "city": "خرم‌آباد",
+        "postalCode": "6815849819"
+      },
+      "shippingMethod": "standard",
+      "paymentMethod": "cash_on_delivery",
+      "items": [
+        {
+          "productId": "product-009",
+          "slug": "stride-lt-running-shoe",
+          "sku": "FL-RUN-009",
+          "name": "Stride LT Running Shoe",
+          "image": "/images/products/stride-lt-running-shoe-1.jpg",
+          "unitPrice": 156,
+          "currency": "USD",
+          "selectedColor": {
+            "name": "Cloud",
+            "hex": "#E9ECE7"
+          },
+          "selectedSize": "M",
+          "quantity": 2,
+          "lineTotal": 312
+        }
+      ],
+      "totalQuantity": 2,
+      "subtotal": 312,
+      "shippingFee": 0,
+      "total": 312,
+      "currency": "USD",
+      "customerEmailNormalized": "sara@gmail.com"
+    },
+    {
+      "id": "kH_u1dpNwTM",
+      "userId": "user-demo-customer",
+      "orderNumber": "FIT-c82414db-3c1e-4b9a-843e-3372f400891e",
+      "createdAt": "2026-08-03T10:23:19.912Z",
+      "status": "pending",
+      "customer": {
+        "firstName": "amirmohammad",
+        "lastName": "aliepour",
+        "email": "amirmohammadaliepour@gmail.com",
+        "phone": "09163611070"
+      },
+      "deliveryAddress": {
+        "address": "خیابان امام -کوچه پرستو -پلاک9",
+        "city": "خرم‌آباد",
+        "postalCode": "6815849819"
+      },
+      "shippingMethod": "standard",
+      "paymentMethod": "cash_on_delivery",
+      "items": [
+        {
+          "productId": "product-014",
+          "slug": "court-flight-knee-pad",
+          "sku": "FL-VBL-014",
+          "name": "Court Flight Knee Pad",
+          "image": "/images/products/court-flight-knee-pad-1.jpg",
+          "unitPrice": 38,
+          "currency": "USD",
+          "selectedColor": {
+            "name": "Black",
+            "hex": "#151713"
+          },
+          "selectedSize": "M",
+          "quantity": 1,
+          "lineTotal": 38
+        },
+        {
+          "productId": "product-003",
+          "slug": "forge-training-pant",
+          "sku": "FL-TRN-003",
+          "name": "Forge Training Pant",
+          "image": "/images/products/forge-training-pant-1.jpg",
+          "unitPrice": 94,
+          "currency": "USD",
+          "selectedColor": {
+            "name": "Graphite",
+            "hex": "#30332E"
+          },
+          "selectedSize": "XL",
+          "quantity": 1,
+          "lineTotal": 94
+        }
+      ],
+      "totalQuantity": 2,
+      "subtotal": 132,
+      "shippingFee": 0,
+      "total": 132,
+      "currency": "USD",
+      "customerEmailNormalized": "amirmohammadaliepour@gmail.com"
+    },
+    {
+      "id": "bq01o8uirw8",
+      "userId": "user-demo-customer",
+      "orderNumber": "FIT-bd05ec86-7c8c-41f4-88ee-0a0c97a33657",
+      "createdAt": "2026-08-03T10:57:20.433Z",
+      "status": "pending",
+      "customer": {
+        "firstName": "amirmohammad",
+        "lastName": "aliepour",
+        "email": "amirmohammadaliepour@gmail.com",
+        "phone": "09163611070"
+      },
+      "deliveryAddress": {
+        "address": "خیابان امام -کوچه پرستو -پلاک9",
+        "city": "خرم‌آباد",
+        "postalCode": "6815849819"
+      },
+      "shippingMethod": "standard",
+      "paymentMethod": "cash_on_delivery",
+      "items": [
+        {
+          "productId": "product-003",
+          "slug": "forge-training-pant",
+          "sku": "FL-TRN-003",
+          "name": "Forge Training Pant",
+          "image": "/images/products/forge-training-pant-1.jpg",
+          "unitPrice": 94,
+          "currency": "USD",
+          "selectedColor": {
+            "name": "Graphite",
+            "hex": "#30332E"
+          },
+          "selectedSize": "M",
+          "quantity": 2,
+          "lineTotal": 188
+        }
+      ],
+      "totalQuantity": 2,
+      "subtotal": 188,
+      "shippingFee": 0,
+      "total": 188,
+      "currency": "USD",
+      "customerEmailNormalized": "amirmohammadaliepour@gmail.com"
+    },
+    {
+      "id": "rSkqtQ6V_JQ",
+      "userId": "user-demo-customer",
+      "orderNumber": "FIT-f75fabd6-90b3-4b95-81d2-4ff4e3f0e5ce",
+      "createdAt": "2026-08-04T12:28:34.682Z",
+      "status": "pending",
+      "customer": {
+        "firstName": "amirmohammad",
+        "lastName": "aliepour",
+        "email": "amirmohammadaliepour@gmail.com",
+        "phone": "09163611070"
+      },
+      "deliveryAddress": {
+        "address": "خیابان امام -کوچه پرستو -پلاک9",
+        "city": "خرم‌آباد",
+        "postalCode": "6815849819"
+      },
+      "shippingMethod": "express",
+      "paymentMethod": "demo_card",
+      "items": [
+        {
+          "productId": "product-007",
+          "slug": "grapple-elite-singlet",
+          "sku": "FL-WRS-007",
+          "name": "Grapple Elite Singlet",
+          "image": "/images/products/grapple-elite-singlet-1.jpg",
+          "unitPrice": 89,
+          "currency": "USD",
+          "selectedColor": {
+            "name": "White",
+            "hex": "#F5F5F0"
+          },
+          "selectedSize": "L",
+          "quantity": 1,
+          "lineTotal": 89
+        }
+      ],
+      "totalQuantity": 1,
+      "subtotal": 89,
+      "shippingFee": 12,
+      "total": 101,
+      "currency": "USD",
+      "customerEmailNormalized": "amirmohammadaliepour@gmail.com"
+    },
+    {
+      "id": "ZbinODbOEsk",
+      "orderNumber": "FIT-c8707b8d-cb49-4230-aa68-575073a031a6",
+      "createdAt": "2026-08-04T12:29:42.546Z",
+      "status": "pending",
+      "customer": {
+        "firstName": "amirmohammad",
+        "lastName": "aliepour",
+        "email": "amirmohammadaliepour@gmail.com",
+        "phone": "09163611070"
+      },
+      "deliveryAddress": {
+        "address": "خیابان امام -کوچه پرستو -پلاک9",
+        "city": "خرم‌آباد",
+        "postalCode": "6815849819"
+      },
+      "shippingMethod": "standard",
+      "paymentMethod": "cash_on_delivery",
+      "items": [
+        {
+          "productId": "product-005",
+          "slug": "elevate-volleyball-short",
+          "sku": "FL-VBL-005",
+          "name": "Elevate Volleyball Short",
+          "image": "/images/products/elevate-volleyball-short-1.jpg",
+          "unitPrice": 58,
+          "currency": "USD",
+          "selectedColor": {
+            "name": "Ink",
+            "hex": "#171A24"
+          },
+          "selectedSize": "S",
+          "quantity": 1,
+          "lineTotal": 58
+        }
+      ],
+      "totalQuantity": 1,
+      "subtotal": 58,
+      "shippingFee": 0,
+      "total": 58,
+      "currency": "USD",
+      "customerEmailNormalized": "amirmohammadaliepour@gmail.com"
+    },
+    {
+      "id": "oyrf_wYJnrI",
+      "customerEmailNormalized": "amirmohammadaliepour@gmail.com",
+      "orderNumber": "FIT-fbffdb59-efff-40b1-b46d-b3efafc48f70",
+      "createdAt": "2026-08-04T19:37:01.355Z",
+      "status": "pending",
+      "customer": {
+        "firstName": "amirmohammad",
+        "lastName": "aliepour",
+        "email": "amirmohammadaliepour@gmail.com",
+        "phone": "09163611070"
+      },
+      "deliveryAddress": {
+        "address": "خیابان امام -کوچه پرستو -پلاک9",
+        "city": "خرم‌آباد",
+        "postalCode": "6815849819"
+      },
+      "shippingMethod": "standard",
+      "paymentMethod": "cash_on_delivery",
+      "items": [
+        {
+          "productId": "product-007",
+          "slug": "grapple-elite-singlet",
+          "sku": "FL-WRS-007",
+          "name": "Grapple Elite Singlet",
+          "image": "/images/products/grapple-elite-singlet-1.jpg",
+          "unitPrice": 89,
+          "currency": "USD",
+          "selectedColor": {
+            "name": "White",
+            "hex": "#F5F5F0"
+          },
+          "selectedSize": "L",
+          "quantity": 1,
+          "lineTotal": 89
+        }
+      ],
+      "totalQuantity": 1,
+      "subtotal": 89,
+      "shippingFee": 0,
+      "total": 89,
+      "currency": "USD"
+    },
+    {
+      "id": "z5h9Gy0zQWk",
+      "customerEmailNormalized": "amirmohammadaliepour@gmail.com",
+      "orderNumber": "FIT-5a396810-8595-4476-be97-6f1f74d5f321",
+      "createdAt": "2026-08-05T09:21:00.562Z",
+      "status": "pending",
+      "customer": {
+        "firstName": "amirmohammad",
+        "lastName": "aliepour",
+        "email": "amirmohammadaliepour@gmail.com",
+        "phone": "09163611070"
+      },
+      "deliveryAddress": {
+        "address": "خیابان امام -کوچه پرستو -پلاک9",
+        "city": "خرم‌آباد",
+        "postalCode": "6815849819"
+      },
+      "shippingMethod": "express",
+      "paymentMethod": "demo_card",
+      "items": [
+        {
+          "productId": "product-011",
+          "slug": "draft-performance-cap",
+          "sku": "FL-RUN-011",
+          "name": "Draft Performance Cap",
+          "image": "/images/products/draft-performance-cap-1.jpg",
+          "unitPrice": 42,
+          "currency": "USD",
+          "selectedColor": {
+            "name": "Sport Teal",
+            "hex": "#087F92"
+          },
+          "selectedSize": "ONE_SIZE",
+          "quantity": 2,
+          "lineTotal": 84
+        }
+      ],
+      "totalQuantity": 2,
+      "subtotal": 84,
+      "shippingFee": 12,
+      "total": 96,
+      "currency": "USD"
+    }
+  ],
+  "users": [
+    {
+      "id": "user-admin-fitland",
+      "firstName": "FitLand",
+      "lastName": "Admin",
+      "email": "admin@fitland.com",
+      "password": "Admin123!",
+      "role": "admin",
+      "createdAt": "2026-08-03T00:00:00.000Z"
+    },
+    {
+      "id": "user-demo-customer",
+      "firstName": "Demo",
+      "lastName": "Customer",
+      "email": "user@fitland.com",
+      "password": "User123!",
+      "role": "customer",
+      "createdAt": "2026-08-03T00:00:00.000Z"
+    },
+    {
+      "id": "acWkQwNteo4",
+      "firstName": "amirmohammad",
+      "lastName": "aliepour",
+      "email": "amirmohammadaliepour@gmail.com",
+      "password": "@uyh6VGe8S3Bsvv",
+      "role": "customer",
+      "createdAt": "2026-08-05T09:23:32.564Z"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

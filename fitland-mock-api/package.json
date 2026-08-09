@@ -1,0 +1,14 @@
+{
+  "name": "fitland-mock-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "json-server db.json --port 4000",
+    "start": "json-server db.json --port 4000",
+    "backfill:order-emails": "node scripts/backfill-order-customer-email-normalized.mjs",
+    "validate": "node scripts/validate-db.mjs"
+  },
+  "devDependencies": {
+    "json-server": "1.0.0-beta.15"
+  }
+}
