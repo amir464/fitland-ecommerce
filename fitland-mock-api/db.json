@@ -2171,6 +2171,49 @@
       "shippingFee": 12,
       "total": 96,
       "currency": "USD"
+    },
+    {
+      "id": "C_iMuxfe6s0",
+      "customerEmailNormalized": "amirmohammadaliepour@gmail.com",
+      "orderNumber": "FIT-f75ade25-4186-47bd-9dac-2207200e0c7e",
+      "createdAt": "2026-08-12T17:15:27.626Z",
+      "status": "pending",
+      "customer": {
+        "firstName": "amirmohammad",
+        "lastName": "aliepour",
+        "email": "amirmohammadaliepour@gmail.com",
+        "phone": "09163611070"
+      },
+      "deliveryAddress": {
+        "address": "خیابان امام -کوچه پرستو -پلاک9",
+        "city": "خرم‌آباد",
+        "postalCode": "6815849819"
+      },
+      "shippingMethod": "express",
+      "paymentMethod": "demo_card",
+      "items": [
+        {
+          "productId": "product-022",
+          "slug": "terrain-wind-vest",
+          "sku": "FL-RUN-022",
+          "name": "Terrain Wind Vest",
+          "image": "/images/products/terrain-wind-vest-1.jpg",
+          "unitPrice": 102,
+          "currency": "USD",
+          "selectedColor": {
+            "name": "Sport Teal",
+            "hex": "#087F92"
+          },
+          "selectedSize": "M",
+          "quantity": 2,
+          "lineTotal": 204
+        }
+      ],
+      "totalQuantity": 2,
+      "subtotal": 204,
+      "shippingFee": 12,
+      "total": 216,
+      "currency": "USD"
     }
   ],
   "users": [
